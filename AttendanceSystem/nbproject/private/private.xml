@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/index.html</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/dao/UserDAO.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/util/DBConnection.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/model/User.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/dao/AttendanceDAO.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/controller/LoginServlet.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/login.jsp</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/studentDashboard.jsp</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/adminDashboard.jsp</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/logout.jsp</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/controller/MarkAttendanceServlet.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/dao/TeacherDAO.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/src/java/com/attendance/controller/MarkLectureAttendanceServlet.java</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/teacherDashboard.jsp</file>
+            <file>file:/C:/Users/Rudra/OneDrive/Documents/NetBeansProjects/AttendanceSystem/web/markLectureAttendance.jsp</file>
+        </group>
+    </open-files>
+</project-private>
